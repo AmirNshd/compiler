@@ -1,6 +1,6 @@
 # 🧠 Compiler Construction Project (Tokenizer-Based Interpreter)
 
-**Course:** Design and Analysis of Algorithms / Compiler Fundamentals (not specified in code)
+**Course:** Compiler
 
 **Status:** Complete
 
